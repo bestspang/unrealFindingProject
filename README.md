@@ -36,7 +36,7 @@ try to wash more dishes as you can.
 - Sound and the room that come with the given package
 
 ## more details
-- Unreal Enginw 4.15.3
+- Unreal Engine 4.15.3
 - built for Oculus Rift
 - 2 hand supported (2 motion controller)
 - but not work very well yet?
