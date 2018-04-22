@@ -6,9 +6,6 @@ the fire will be randomly generate and the time is limited!!!
 becareful of the fake balloon! looking for the red one only!!
 try to control the fire as long as possible.
 
-....
-..
-.
 #### Controllers
 - B for turn menu on / off
 - A for click / turn menu on
