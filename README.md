@@ -5,6 +5,7 @@ The player need find 'THE RED BALLOON' within the room and throw at a fire, to t
 the fire will be randomly generate and the time is limited!!!
 becareful of the fake balloon! looking for the red one only!!
 try to control the fire as long as possible.
+
 ....
 ..
 .
@@ -34,6 +35,7 @@ the teleport distance
 <img src="https://github.com/bestspang/unrealFindingProject/blob/master/ss01.jpg" width="300"/>
 <img src="https://github.com/bestspang/unrealFindingProject/blob/master/ss02.jpg" width="300"/>
 <img src="https://github.com/bestspang/unrealFindingProject/blob/master/ss03.jpg" width="300"/>
+
 - balloon getting bigger before explode (animation!!)
 - the fire will be remove after get overlap by RED BALLOON
 - The menu is moveing refer to your head
